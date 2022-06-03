@@ -1,5 +1,5 @@
 # ITT650-ZAKAT-CALCULATOR
-This project has been developed for ITT650 Mobile Technology Assignment in UiTM Arau , Perlis.
+This project has been developed for ITT650 Mobile Technology Assignment by using Android Studio in UiTM Arau , Perlis.
 
 Students who developed this apps:
 
